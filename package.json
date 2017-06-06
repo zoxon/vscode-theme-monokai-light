@@ -2,7 +2,7 @@
     "name": "monokai-light",
     "displayName": "Monokai Light",
     "description": "Monokai Light Theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "zoxon",
     "engines": {
         "vscode": "^1.12.0"

@@ -9,3 +9,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.2]
 ### Updated
 - links to files in README.md
+
+## [0.0.3]
+### Added
+- Colors for editor
