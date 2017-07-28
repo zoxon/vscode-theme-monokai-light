@@ -248,6 +248,13 @@
 			}
 		},
 		{
+			"name": "Markup Headings",
+			"scope": "markup.heading",
+			"settings": {
+				"foreground": "#cf7000"
+			}
+		},
+		{
 			"name": "Markup Setext Header",
 			"scope": "markup.heading.setext",
 			"settings": {
