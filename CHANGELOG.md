@@ -13,3 +13,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.3]
 ### Added
 - Colors for editor
+
+## [0.1.0]
+### Added
+- Styling for markdown headers
