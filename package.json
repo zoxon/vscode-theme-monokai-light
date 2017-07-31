@@ -4,6 +4,11 @@
     "description": "Monokai Light Theme",
     "version": "0.1.1",
     "publisher": "zoxon",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#FAFAFA",
+        "theme": "light"
+    },
     "engines": {
         "vscode": "^1.12.0"
     },
